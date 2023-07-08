@@ -1,0 +1,26 @@
+// .dino__game {
+//    display: flex;
+//    justify-content: center;
+//    flex-direction: column;
+//    align-items: center;
+//    width: 100%;
+
+//    overflow: auto;
+//    /* this will hide the scrollbar in mozilla based browsers */
+//    overflow: -moz-scrollbars-none;
+//    scrollbar-width: none;
+//    /* this will hide the scrollbar in internet explorers */
+//    -ms-overflow-style: none;
+   
+// }
+
+// .embedded {
+   
+//   width: 800px
+  
+// }
+@media screen and (max-width: 500px) {
+   .dino_game {
+      display: none;
+     
+    }}
